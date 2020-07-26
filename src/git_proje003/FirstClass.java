@@ -9,9 +9,7 @@ public class FirstClass {
 		System.out.println("Ucuncu commit local master branch'den");
 		System.out.println("Dorduncu commit local master branch'den");
 
-		System.out.println("3. commit remote master branch'den");
-		System.out.println("4. commit remote master branch'den");
-		System.out.println("5. commit remote master branch'den");
+		
 	
 
 
